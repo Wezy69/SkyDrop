@@ -1,2 +1,2 @@
 # SkyDrop
-For waht was and what will be.
+For what was and what will be.
